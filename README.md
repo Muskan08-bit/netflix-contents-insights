@@ -28,7 +28,7 @@ This project dives into Netflix's global content data to uncover trends in conte
 ---
 
 ## 📊 Dashboard Highlights
-<img src="https://drive.google.com/file/d/1KsWyfFVWHbRY7u_4xCLwgZPI4BRNu_4S/view" alt="Netflix Tableau Dashboard" width="100%">
+[Netflix Content Insights Dashboard](https://drive.google.com/file/d/1KsWyfFVWHbRY7u_4xCLwgZPI4BRNu_4S/view?usp=sharing)
 
 ### 🔹 Visual Elements Included:
 - Line chart: Content released over the years
